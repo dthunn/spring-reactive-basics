@@ -1,0 +1,4 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://dthunn90:Babyerza1990!@cluster0.jljz5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

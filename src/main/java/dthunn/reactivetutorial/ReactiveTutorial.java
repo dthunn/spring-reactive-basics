@@ -156,6 +156,6 @@ public class ReactiveTutorial {
 
     public static void main(String[] args) throws InterruptedException {
         ReactiveTutorial reactiveTutorial = new ReactiveTutorial();
-        reactiveTutorial.testErrorHandling2().subscribe(System.out::println);
+//        reactiveTutorial.testErrorHandling3().subscribe(System.out::println);
     }
 }
